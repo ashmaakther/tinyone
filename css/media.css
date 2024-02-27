@@ -85,6 +85,24 @@
     .c_submit{
          height: 45px;
      }
+     .c_icon ul li{
+        margin-right: 20px !important;
+    }
+    .c_icon ul li i{
+        font-size: 38px;
+    }
+     /* footer start */
+     footer{
+        padding-bottom: 70px;
+    }
+    .f_1{
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .f_2{
+        margin-top: 40px;
+        text-align: center;
+    }
 
 
 }
@@ -172,6 +190,23 @@
     .c_submit{
          height: 45px;
     }
+    .c_icon ul li{
+        margin-right: 25px !important;
+    }
+    .c_icon ul li i{
+        font-size: 40px;
+    }
+    /* footer start */
+    footer{
+        padding-bottom: 70px;
+    }
+    .f_1{
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .f_2{
+        text-align: center;
+    }
 
     
 
@@ -194,6 +229,10 @@
     
     .f_item{
         margin-top: 50px;
+    }
+    /* footer start */
+    footer{
+        padding-bottom: 100px;
     }
 }
 

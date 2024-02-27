@@ -154,18 +154,33 @@ header{
     background-color: white;
 }
 .c_icon{}
-.c_icon li{
+.c_icon ul li{
     margin-right: 30px !important;
 }
-.c_icon li:last-child{
+.c_icon ul li:last-child{
     margin-right: 0 !important;
 }
-.c_icon li i{
+.c_icon ul li i{
     font-size: 42px;
     color: #fedb00;
     transition: .3s;
 }
-.c_icon li i:hover{
+.c_icon ul li i:hover{
     color: white;
 }
 /* contact end */
+/*footer start*/
+footer{
+    background-color: #010101;
+    padding-bottom: 120px;
+}
+.f_1{}
+.f_1 address{
+    color:#ffffff;
+}
+.f_2{}
+.f_2 p a{
+    color: #ffffff;
+     text-decoration: none; 
+}
+/* footer end */
