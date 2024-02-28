@@ -1,6 +1,8 @@
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) { 
-    
+    body{
+        padding-top: 89px;
+    }
     .c_padding{
         padding-top: 50px;
         padding-bottom: 70px;
